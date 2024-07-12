@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\somai\\OneDrive - Centennial College\\semester 3\\Downlaods\\ToDoList-MVC-.NET-master\\ToDoList-MVC-.NET-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|c:\\users\\somai\\onedrive - centennial college\\semester 3\\downlaods\\todolist-mvc-.net-master\\todolist-mvc-.net-master\\todo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|solutionrelative:todo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|c:\\users\\somai\\onedrive - centennial college\\semester 3\\downlaods\\todolist-mvc-.net-master\\todolist-mvc-.net-master\\todo\\dockerfile1.original||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|solutionrelative:todo\\dockerfile1.original||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|c:\\users\\somai\\onedrive - centennial college\\semester 3\\downlaods\\todolist-mvc-.net-master\\todolist-mvc-.net-master\\todo\\dockerfile.original||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|solutionrelative:todo\\dockerfile.original||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|c:\\users\\somai\\onedrive - centennial college\\semester 3\\downlaods\\todolist-mvc-.net-master\\todolist-mvc-.net-master\\todo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|solutionrelative:todo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|c:\\users\\somai\\onedrive - centennial college\\semester 3\\downlaods\\todolist-mvc-.net-master\\todolist-mvc-.net-master\\todo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|solutionrelative:todo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile.original",
+              "DocumentMoniker": "C:\\Users\\somai\\OneDrive - Centennial College\\semester 3\\Downlaods\\ToDoList-MVC-.NET-master\\ToDoList-MVC-.NET-master\\ToDo\\Dockerfile.original",
+              "RelativeDocumentMoniker": "ToDo\\Dockerfile.original",
+              "ToolTip": "C:\\Users\\somai\\OneDrive - Centennial College\\semester 3\\Downlaods\\ToDoList-MVC-.NET-master\\ToDoList-MVC-.NET-master\\ToDo\\Dockerfile.original",
+              "RelativeToolTip": "ToDo\\Dockerfile.original",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-12T20:13:57.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile1.original",
+              "DocumentMoniker": "C:\\Users\\somai\\OneDrive - Centennial College\\semester 3\\Downlaods\\ToDoList-MVC-.NET-master\\ToDoList-MVC-.NET-master\\ToDo\\Dockerfile1.original",
+              "RelativeDocumentMoniker": "ToDo\\Dockerfile1.original",
+              "ToolTip": "C:\\Users\\somai\\OneDrive - Centennial College\\semester 3\\Downlaods\\ToDoList-MVC-.NET-master\\ToDoList-MVC-.NET-master\\ToDo\\Dockerfile1.original",
+              "RelativeToolTip": "ToDo\\Dockerfile1.original",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-12T20:13:55.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\somai\\OneDrive - Centennial College\\semester 3\\Downlaods\\ToDoList-MVC-.NET-master\\ToDoList-MVC-.NET-master\\ToDo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ToDo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\somai\\OneDrive - Centennial College\\semester 3\\Downlaods\\ToDoList-MVC-.NET-master\\ToDoList-MVC-.NET-master\\ToDo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ToDo\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwDAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T20:00:54.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\somai\\OneDrive - Centennial College\\semester 3\\Downlaods\\ToDoList-MVC-.NET-master\\ToDoList-MVC-.NET-master\\ToDo\\Dockerfile",
+              "RelativeDocumentMoniker": "ToDo\\Dockerfile",
+              "ToolTip": "C:\\Users\\somai\\OneDrive - Centennial College\\semester 3\\Downlaods\\ToDoList-MVC-.NET-master\\ToDoList-MVC-.NET-master\\ToDo\\Dockerfile",
+              "RelativeToolTip": "ToDo\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-12T19:50:13.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "C:\\Users\\somai\\OneDrive - Centennial College\\semester 3\\Downlaods\\ToDoList-MVC-.NET-master\\ToDoList-MVC-.NET-master\\ToDo\\Models\\ToDo.cs",
+              "RelativeDocumentMoniker": "ToDo\\Models\\ToDo.cs",
+              "ToolTip": "C:\\Users\\somai\\OneDrive - Centennial College\\semester 3\\Downlaods\\ToDoList-MVC-.NET-master\\ToDoList-MVC-.NET-master\\ToDo\\Models\\ToDo.cs",
+              "RelativeToolTip": "ToDo\\Models\\ToDo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:35:02.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
